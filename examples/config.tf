@@ -1,6 +1,4 @@
 provider "appstream" {
-    access_key              = "AKIA3HSEGW5W5GXGGZN2"
-    secret_key              = "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"
     region                  = "us-east-1"
 }
 
